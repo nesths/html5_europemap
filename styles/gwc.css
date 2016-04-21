@@ -1,0 +1,21 @@
+nav {
+    background-color: rgba(86, 74, 61, 0.30);
+}
+
+nav, nav .nav-wrapper i, 
+nav a.button-collapse, 
+nav a.button-collapse i {
+    height: 90px;
+    line-height: 64px;
+}
+
+.navbar-fixed {
+    height: 90px;
+}
+.navbar-fixed {
+    position: relative;
+    height: 90px;
+    z-index: 998;
+}
+
+
